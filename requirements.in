@@ -1,0 +1,7 @@
+numpy
+tensorflow<2.0.0
+tensorflow-addons
+rouge
+tqdm
+networkx
+keras
